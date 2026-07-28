@@ -91,14 +91,5 @@
 ---
 
 <p align="center">
-  <a href="mailto:tucorreo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28"/></a>
-  <a href="https://www.linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/></a>
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/PaulDelgado07/PaulDelgado07/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </p>
